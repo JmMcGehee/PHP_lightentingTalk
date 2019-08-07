@@ -5,8 +5,8 @@ A brief PHP project example.
 
 Created to streamline building webpages, instead of having to write repetitive code in C.
 
- 
-=====================================================
+
+===
 
 [Mike Dane's basic PHP Tutorial - (4+ hours)](https://www.mikedane.com/web-development/php/)
 
@@ -45,7 +45,7 @@ Add the HTML boilerplate
 
 Go to `localhost:3000`
 
-=============================================
+===
 
 ##Connect to a database
 
@@ -53,7 +53,7 @@ Typically, PHP will be connected to a MySQL database via MySQLi
 
 It requires, writing SQL queries to edit the database. [(See here)](https://www.w3schools.com/php/php_mysql_connect.asp)
 
-=============================================
+===
 
 ##Frameworks
 
