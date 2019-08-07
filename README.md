@@ -2,6 +2,10 @@
 A brief PHP project example.
 
 -PHP originally stood for **Personal Home Page**, but it now stands for the recursive initialism **PHP: Hypertext Preprocessor**. [Wikipedia](https://en.wikipedia.org/wiki/PHP)
+
+Created to streamline building webpages, instead of having to write repetitive code in C.
+
+ 
 =====================================================
 
 [Mike Dane's basic PHP Tutorial - (4+ hours)](https://www.mikedane.com/web-development/php/)
@@ -43,7 +47,7 @@ Go to `localhost:3000`
 
 =============================================
 
-##Connect to a database.
+##Connect to a database
 
 Typically, PHP will be connected to a MySQL database via MySQLi
 

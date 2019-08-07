@@ -19,7 +19,7 @@
       $decimal = 3.14;
       $isBoolean = true;
 
-      echo "$text is how we can store a variable";
+      echo "$text is how we can store a variable <br>";
       echo "Datatypes can be a number like $integer, </br>
       A decimal like $decimal, </br>
       Or a boolean like $isBoolean.
@@ -98,7 +98,7 @@
      sayHi("Mike")
       ?> -->
 
-      <br>
+      <!-- <br>
       <form action="site.php" method="GET">
      Num1: <input type="number" name="num1">
      Operator: <input type="text" name="op">
@@ -122,6 +122,6 @@
      } else {
           echo "Invalid Operator";
      }
-     ?>
+     ?> -->
   </body>
 </html>
